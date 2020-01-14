@@ -21,11 +21,11 @@ career-summary: |
 
   Over the past 5 years committed to ongoing improvement of research software practice through training and community
   engagement work. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
-  by making key training strategic decisions and helping developing new curricula. Maintaining the UK’s pivotal role within
+  by making key training strategic decisions and helping develop new training curricula. Maintaining the UK’s pivotal role within
   the international research training community by running events, helping organisations and individuals deliver training
   for researchers and handling national and international collaborations and outreach with various communities.
 
-  Prior to moving into project management and leadership, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks or Jekyll/Liquid or some CMS to set up websites.
+  Prior to moving into project management and leadership, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks.
 
 work-experiences:
   - role: Training Team Lead
@@ -33,24 +33,22 @@ work-experiences:
     company: Software Sustainability Institute, UK
     intro:
     details: # Give more details about your responsibilities in the role.
-      - Working to improve the provision and access to training in foundational computational and data management skills
-        for open and reproducible research for UK researchers by diffusion of a model of training based on pedagogical research
+      - Working to improve the provision and access to training in foundational computational and data analysis skills
+        to aid open and reproducible research by diffusion of a model of training based on pedagogical research
         and principles of openness, inclusivity, accessibility and collaboration.
       - Engaging with UK Higher Education institutions and Doctoral Training Centres, projects and worldwide communities
-        involving research software training, providing them with consultancy, guidance and support around building capability
+        involving research software training - providing them with consultancy, guidance and support around building capability
         and capacity within their communities.
-      - Helping build a computationally skilled researcher base in the UK by organising and teaching training workshops and
-        running instructor training
+      - Helping to increase skilled researcher base by running instructor training programmes
 
   - role: Technical Training Coordinator
     time: 2014 - 2016
     company: ELIXIR, EU Life Sciences Infrastructure Project
     intro: 
     details:
-      - Designed, project managed and co-developed TeSS training portal (Ruby on Rails) for browsing and automated discovery
+      - Designed, project managed and co-developed TeSS training portal (developed in Ruby on Rails) for browsing and automated discovery
         of life sciences training resources
-      - Co-led the BioSchema standard and community for the development of Schema.org markup to structure online training resources in
-        life sciences
+      - Co-founded and co-led the BioSchema standard and community for the development of Schema.org markup to structure online training resources in life sciences
 
   - role: Product manager
     time: 2013 - 2014
@@ -62,14 +60,14 @@ work-experiences:
   - role: (Senior) Research Software Engineer
     time: 2008 - 2013
     company: School of Computer Science, University of Manchester, UK
-    intro: Development, deployment and maintenance of several software products.
+    intro: "Development, deployment and maintenance of several software products:"
     details:
         - Taverna (scientific workflow execution system developed in Java)
         - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails
           product deployed on an Openstack academic cloud)
         - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon’s AWS cloud)
-        - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce)
-        - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails)
+        - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce paradigm)
+        - NeISS (platform for social simulations developed using Java portlets and Ruby on Rails)
 
   - role: Post Doctoral Researcher
     time: 2005 - 2008
@@ -84,8 +82,8 @@ work-experiences:
     company: School of Computer Science, University of Manchester, UK
     intro:
     details:
-      - Research and development a Single Sign-On (SSO) and multi-factor authentication solution for federated identity and access management
-      - Research and development of security protocols for secure digital signing and online exchange of digital goods.
+      - Research and development a Single Sign-On, multi-factor authentication solution for federated identity and access management
+      - Research and development of security protocols for secure digital signing and online exchange of digital goods
   - role: Software engineer
     time: 2000 - 2001
     company: eMobile (UK) Ltd., Manchester, UK
@@ -127,11 +125,10 @@ skills:
     - name: Sketch & Photoshop
       level: 60%
   professional:
-    - name: Team player
-    - name: Effective communication
-    - name: Team player
     - name: Strong problem solver
-    - name: Good time management
+    - name: Team player
+    - name: Effective verbal and written communication
+    - name: Excellent time management
 
 projects:
   title: Activities
@@ -145,21 +142,49 @@ projects:
       link: "https://carpentries.org/"
       details: |
         Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
-        of The Carpentries community, recruiting more members into the community and training instructors to help grow the capacity.
+        of The Carpentries community, recruiting more members into the community and training instructors to help grow
+        the capacity. Organised and taught at over 20 workshops.
 
     - name: UK regional Carpentry workshop coordinator
       time: 2016-present
       link: "https://carpentries.org/regionalcoordinators/"
       details: |
         Advertising workshops, brokering between instructors and hosts, logging and analysis of
-        workshop data for impact analysis, providing first-line of support for the community."
+        workshop data for impact analysis, providing first-line of support for the community.
+    - name: Lead conference organiser, CarpentryConnect Manchester 2019
+      time: 2019
+      details: Project managed the organisation of the event.
+    - name: Conference organiser, CarpentryCon Madison 2020
+      time: 2020
+      details: Responsible for website, outreach and programme.
+    - name: Conference organiser, RSE Conference 2017
+      time: 2017
+      details: Responsible for website and local organisation.
+    - name: Expert at Mozilla Open Life Sciences Leadership Programme
+      time: 2019 -2020
+      details: Helping early stage researchers and potential academic leaders to become Open Science ambassadors.
+    - name: Curriculum advisory committee member for Health Data Research UK
+      time: 2018-present
+      details: Helping devise a public health and health data research training curriculum.
+    - name: BBSRC national capabilities review panel member
+      time: 2019
+      details: Reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK.
+    - name: Volunteer at EuroPython Edinburgh 2018
+      time: 2018
+      details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
+    - name: Volunteer at Hacktoberfest Manchester 2019
+      time: 2019
+      details: Helping people start coding with Python or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
 
 awards:
-  - name: Award Lorem Ipsum
-    detail: Microsoft lorem ipsum (2019)
+  - name: The Institute of Leadership & Management (ILM) Level 5 Leadership and Management Certificate
+    detail: 2019
 
-  - name: Award Donec Sodales
-    detail: Oracle Aenean (2017)
+  - name: Certified Carpentry Instructor Trainer
+    detail: 2017
+    
+  - name: Certified Software and Data Carpentry Instructor
+    detail: 2015
 #
 #languages:
 #  - name: English
