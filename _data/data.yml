@@ -76,8 +76,8 @@ work-experiences:
     company: School of Computer Science, University of Manchester, UK
     intro: 
     details:
-      - Research and development Shibboleth-enabled Bridge to Access the (Higher Education) National Grid Service
-      - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the UK Research and Higher Education communities
+      - Research and development of a Single Sign-On Shibboleth-enabled bridge to access the (Higher Education's) National Grid Service
+      - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the UK Research and Higher Education communities and their online services
 
   - role: Research Associate
     time: 2002 - 2005
