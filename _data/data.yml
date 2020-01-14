@@ -17,33 +17,87 @@ orcid: "0010-0042-2269-3894" #id part of ORCID e.g. https://orcid.org/0010-0042-
 location: Manchester
 
 career-summary: |
-  Summarise your career here in a parahraph or two.
+  An IT professional who spent most of her life working in academia and research.
+
+  Over the past 5 years committed to ongoing improvement of research software practice through training and community
+  engagement work. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
+  by making key training strategic decisions and helping developing new curricula. Maintaining the UK’s pivotal role within
+  the international research training community by running events, helping organisations and individuals deliver training
+  for researchers and handling national and international collaborations and outreach with various communities.
+
+  Prior to moving into project management and leadership, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks or Jekyll/Liquid or some CMS to set up websites.
 
 work-experiences:
   - role: Training Team Lead
     time: 2016 - Present
     company: Software Sustainability Institute, UK
-    intro: |
-      Summarise your experiences.
+    intro:
     details: # Give more details about your responsibilities in the role.
-      - "Working to improve the provision and access to training in foundational computational and data management skills
-      for open and reproducible research for UK researchers by diffusion of a model of training based on pedagogical research
-      and principles of openness, inclusivity, accessibility and collaboration."
-      - "Engaging with UK Higher Education institutions and Doctoral Training Centres, projects and worldwide communities
-      involving research software training, providing them with consultancy, guidance and support around building capability
-      and capacity within their communities."
-      - "Helping build a computationally skilled researcher base in the UK by organising and teaching training workshops and
-      running instructor training."
+      - Working to improve the provision and access to training in foundational computational and data management skills
+        for open and reproducible research for UK researchers by diffusion of a model of training based on pedagogical research
+        and principles of openness, inclusivity, accessibility and collaboration.
+      - Engaging with UK Higher Education institutions and Doctoral Training Centres, projects and worldwide communities
+        involving research software training, providing them with consultancy, guidance and support around building capability
+        and capacity within their communities.
+      - Helping build a computationally skilled researcher base in the UK by organising and teaching training workshops and
+        running instructor training
+
   - role: Technical Training Coordinator
     time: 2014 - 2016
     company: ELIXIR, EU Life Sciences Infrastructure Project
-    intro: |
-      Summarise your experiences.
+    intro: 
     details:
       - Designed, project managed and co-developed TeSS training portal (Ruby on Rails) for browsing and automated discovery
         of life sciences training resources
       - Co-led the BioSchema standard and community for the development of Schema.org markup to structure online training resources in
         life sciences
+
+  - role: Product manager
+    time: 2013 - 2014
+    company: School of Computer Science, University of Manchester, UK
+    intro:
+    details: 
+      - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of web services in life sciences, developed in Ruby on        Rails and deployed on an Openstack academic cloud)
+
+  - role: (Senior) Research Software Engineer
+    time: 2008 - 2013
+    company: School of Computer Science, University of Manchester, UK
+    intro: Development, deployment and maintenance of several software products.
+    details:
+        - Taverna (scientific workflow execution system developed in Java)
+        - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed an Openstack academic cloud)
+        - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon’s AWS cloud)
+        - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce)
+        - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails)
+
+  - role: Post Doctoral Researcher
+    time: 2005 - 2008
+    company: School of Computer Science, University of Manchester, UK
+    intro: 
+    details:
+      - Research and development Shibboleth-enabled Bridge to Access the (Higher Education) National Grid Service
+      - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the UK Research and Higher Education communities
+
+  - role: Research Associate
+    time: 2002 - 2005
+    company: School of Computer Science, University of Manchester, UK
+    intro:
+    details:
+      - Research and development a Single Sign-On (SSO) and multi-factor authentication solution for federated identity and access management
+      - Research and development of security protocols for secure digital signing and online exchange of digital goods.
+  - role: Software engineer
+    time: 2000 - 2001
+    company: eMobile (UK) Ltd., Manchester, UK
+    intro:
+    details:
+      -  Mobile phone app developer for the first generation of Internet-enabled phones - Ericsson R320 and R380 (WAP, WML)
+
+  - role: ORACLE database developer
+    time: 1999 - 2000
+    company: DUEL, Belgrade, Serbia
+    intro:
+    details:
+      -  Developing financial applications accessing an underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware)
 
 education:
   - degree: PhD in Computer Science (network security)
