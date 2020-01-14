@@ -44,7 +44,7 @@ work-experiences:
   - role: Technical Training Coordinator
     time: 2014 - 2016
     company: ELIXIR, EU Life Sciences Infrastructure Project
-    intro: 
+    intro:
     details:
       - Designed, project managed and co-developed TeSS training portal (developed in Ruby on Rails) for browsing and automated discovery
         of life sciences training resources
@@ -142,13 +142,6 @@ projects:
         Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
         of The Carpentries community, recruiting more members into the community and training instructors to help grow
         the capacity. Organised and taught at over 20 workshops.
-
-    - name: UK regional Carpentry workshop coordinator
-      time: 2016-present
-      link: "https://carpentries.org/regionalcoordinators/"
-      details: |
-        Advertising workshops, brokering between instructors and hosts, logging and analysis of
-        workshop data for impact analysis, providing first-line of support for the community.
     - name: Lead conference organiser, CarpentryConnect Manchester 2019
       time: 2019
       details: Project managed the organisation of the event.
