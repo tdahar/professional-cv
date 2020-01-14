@@ -113,15 +113,15 @@ education:
 skills:
   title: Skills # &amp; Proficiency
   technical:
-    - name: Python & Django
+    - name: Python
       level: 98%
-    - name: Javascript & jQuery
+    - name: Web technologies (HTML5, CSS, Javascript & jQuery)
       level: 98%
-    - name: Angular
+    - name: Ruby
       level: 98%
-    - name: HTML5 & CSS
+    - name: Java, maven
       level: 95%
-    - name: Ruby on Rails
+    - name: Web frameworks (Ruby on Rails, Django, Jekyll)
       level: 85%
     - name: Sketch & Photoshop
       level: 60%
