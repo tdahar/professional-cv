@@ -1,4 +1,5 @@
 # Aleksandra Nenadic's Professional CV
+Viewable at https://anenadic.github.io/professional-cv/.
 
 ## Theme Details & Demo
 
