@@ -65,7 +65,8 @@ work-experiences:
     intro: Development, deployment and maintenance of several software products.
     details:
         - Taverna (scientific workflow execution system developed in Java)
-        - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails product deployed an Openstack academic cloud)
+        - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails
+          product deployed on an Openstack academic cloud)
         - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon’s AWS cloud)
         - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce)
         - NeISS (sustainable, long-term platform for social simulation developed using Java portlets and Ruby on Rails)
