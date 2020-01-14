@@ -2,7 +2,9 @@
 Viewable at https://anenadic.github.io/professional-cv/.
 
 ## Theme & Template Details
-This CV's template is a modified static [DevResume](https://github.com/xriley/DevResume-Theme) template by [Xiaoying Riley](https://github.com/xriley) from 3rdwavemedia which I turned into this Jekyll/Liquid website and CV template.
+This repository contains both my online CV as well a Jekyll/Liquid CV template that can be reused. I created this CV template from the static [DevResume](https://github.com/xriley/DevResume-Theme) templet by [Xiaoying Riley](https://github.com/xriley) from 3rdwavemedia.
+
+To use it for your own online CV, you only need to change one file and fill in your data in `_data/data.yml` folder. Or feel free to play with the layout. 
 
 ## Author & License
 The original author Xiaoying Riley released the template under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/), which is also the licence for this modified template. This project is free for 
