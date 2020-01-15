@@ -14,18 +14,20 @@ stack-overflow: # Number/Username, e.g. 123456/alandoe
 codewars:
 goodreads: # Number-Username, e.g. 123456-alandoe
 orcid: "0010-0042-2269-3894" #id part of ORCID e.g. https://orcid.org/0010-0042-2269-3894
-location: Manchester
+location: Manchester, UK
 
-career-summary: |
+career-summary: 
   An IT professional who spent most of her working life in academia and research.
 
   Over the past 5 years committed to ongoing improvement of research software practice through training and community
   engagement work. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
-  by making key training strategic decisions and helping develop new training curricula. Maintaining the UK’s pivotal role within
-  the international research training community by running events, helping organisations and individuals deliver training
+  and helping develop new training curricula. Maintaining the UK’s pivotal role within
+  the international research training community by running events, training instructors, helping organisations and individuals deliver training
   for researchers and handling national and international collaborations and outreach with various communities.
 
-  Prior to moving into project management, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks.
+  Prior to moving into project management, worked as a senior research software engineer and gained experience in a variety
+  of platforms, infrastructures, technologies and programming languages. If I write code these days, it is mainly in Python
+  or Ruby to extract, analyse, visualise and make sense of the data I work with and to help automate my daily tasks.
 
 work-experiences:
   - role: Training Team Lead
@@ -104,7 +106,7 @@ education:
     time: 2002 - 2005
     details:
 
-  - degree: BSc in Mathematics & Computer Science
+  - degree: BSc (Hons) in Mathematics & Computer Science (First class)
     institution: University of Belgrade, Serbia
     time: 1995 - 1999
     details:
@@ -153,19 +155,19 @@ projects:
       details: Responsible for website and local organisation.
     - name: Expert at Mozilla Open Life Sciences Leadership Programme
       time: 2019 -2020
-      details: Helping early stage researchers and potential academic leaders to become Open Science ambassadors.
+      details: Guiding early stage researchers and potential academic leaders to becoming Open Science ambassadors.
     - name: Curriculum advisory committee member for Health Data Research UK
       time: 2018-present
-      details: Helping devise a public health and health data research training curriculum.
+      details: Helping devise a training curriculum for public health research.
     - name: BBSRC national capabilities review panel member
       time: 2019
-      details: Reviewing 9 National Capabilities projects located at 5 bioscience and bioinformatics research institutions around the UK.
+      details: Reviewing UK bioscience and bioinformatics national capabilities institutions.
     - name: Volunteer at EuroPython Edinburgh 2018
       time: 2018
       details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
     - name: Volunteer at Hacktoberfest Manchester 2019
       time: 2019
-      details: Helping people start coding with Python or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
+      details: Helping people start coding with Python, R and git or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
 
 awards:
   - name: ILM Level 5 Award in Leadership & Management
