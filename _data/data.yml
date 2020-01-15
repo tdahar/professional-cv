@@ -25,7 +25,7 @@ career-summary: |
   the international research training community by running events, helping organisations and individuals deliver training
   for researchers and handling national and international collaborations and outreach with various communities.
 
-  Prior to moving into project management and leadership, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks.
+  Prior to moving into project management, worked as a reseearch software engineer and gained experience in a variety of platforms, infrastructures,         technologies and programming languages. If I write code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data I work with    and to help automate my daily tasks.
 
 work-experiences:
   - role: Training Team Lead
@@ -99,7 +99,7 @@ work-experiences:
       -  Developing financial applications accessing an underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware)
 
 education:
-  - degree: PhD in Computer Science (network security)
+  - degree: PhD in Computer Science (Security Protocols)
     institution: University of Manchester, UK
     time: 2002 - 2005
     details:
@@ -168,13 +168,13 @@ projects:
       details: Helping people start coding with Python or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
 
 awards:
-  - name: The Institute of Leadership & Management (ILM) Level 5 Leadership and Management Certificate
+  - name: ILM Level 5 Award in Leadership & Management
     detail: 2019
 
   - name: Certified Carpentry Instructor Trainer
     detail: 2017
     
-  - name: Certified Software and Data Carpentry Instructor
+  - name: Certified Software & Data Carpentry Instructor
     detail: 2015
 
   - name: Faculty of Mathematics, University of Belgrade, Award for Best Students
