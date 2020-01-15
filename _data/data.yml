@@ -114,21 +114,22 @@ education:
 skills:
   title: Skills # &amp; Proficiency
   technical:
-    - name: Python
+    - name: Programming languages (Python, Ruby, Java, PHP)
       level: 98%
-    - name: Web technologies (HTML5, CSS, Javascript & jQuery)
+    - name: Web standards and technologies (XML/HTML, CSS/SASS, JSON, RDF, JavaScript & jQuery)
       level: 98%
-    - name: Ruby
-      level: 98%
-    - name: Java, maven
-      level: 95%
     - name: Web frameworks (Ruby on Rails, Django, Jekyll)
       level: 85%
+    - name: Databases (mySQL, PostgresQL, SQLite3, ORACLE)
+      level: 98%
+    - name: Software engineering tools - Maven, IDEs (RubyMine , Eclipse), virtual machines (VirtualBox) and version control systems (Git, Mercurial, SVN)
+      level: 95%
+
   professional:
-    - name: Strong problem solver
     - name: Team player
+    - name: Strong problem solver
     - name: Effective verbal and written communication
-    - name: Excellent time management
+    - name: Excellent self & time management
 
 projects:
   title: Activities
