@@ -192,15 +192,15 @@ awards:
 #  - name: Spanish
 #    level: Professional
 #
-#interests:
-#  - name: Climbing
-#    link:
-#
-#  - name: Snowboarding
-#    link:
-#
-#  - name: Cooking
-#    link:
+interests:
+  - name: Cooking
+    detail: I have to so let's make it healthy, fun & tasty
+
+  - name: Reading books
+    detail: Not as much time to dedicate as I'd like
+
+  - name: Skiing
+    detail: When I get a chance
 
 publications:
   title: Recent Publications
