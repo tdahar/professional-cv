@@ -14,6 +14,19 @@
         {% endfor %}
     </section><!--//education-section-->
     {% endif %}
+    {% if profile.awards %}
+    <section class="education-section py-3">
+        <h3 class="text-uppercase resume-section-heading mb-4">Awards</h3>
+        {% for award in profile.awards %}
+        <ul class="list-unstyled resume-awards-list">
+            <li class="mb-3">
+                <div class="font-weight-bold">{{ award.name }}</div>
+                <div class="text-muted">{{ award.detail }}</div>
+            </li>
+        </ul>
+        {% endfor %}
+    </section><!--//awards-section-->
+    {% endif %}
     {% if profile.skills %}
     <section class="skills-section py-3">
         <h3 class="text-uppercase resume-section-heading mb-4">{{ profile.skills.title }}</h3>
@@ -40,19 +53,6 @@
         </div><!--//item-->
         {% endif %}
     </section><!--//skills-section-->
-    {% endif %}
-    {% if profile.awards %}
-    <section class="education-section py-3">
-        <h3 class="text-uppercase resume-section-heading mb-4">Awards</h3>
-        {% for award in profile.awards %}
-        <ul class="list-unstyled resume-awards-list">
-            <li class="mb-3">
-                <div class="font-weight-bold">{{ award.name }}</div>
-                <div class="text-muted">{{ award.detail }}</div>
-            </li>
-        </ul>
-        {% endfor %}
-    </section><!--//awards-section-->
     {% endif %}
     {% if profile.languages %}
     <section class="skills-section py-3">
