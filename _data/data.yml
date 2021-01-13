@@ -118,11 +118,11 @@ skills:
       level: 98%
     - name: Web standards and technologies (XML/HTML, CSS/SASS, JSON, RDF, JavaScript & jQuery)
       level: 98%
-    - name: Web frameworks (Ruby on Rails, Django, Jekyll)
+    - name: Web frameworks (Jekyll, Ruby on Rails, Django)
       level: 85%
     - name: Databases (mySQL, PostgresQL, SQLite3, ORACLE)
       level: 98%
-    - name: Software engineering tools - Maven, IDEs (RubyMine , Eclipse), virtual machines (VirtualBox) and version control systems (Git, Mercurial, SVN)
+    - name: Software engineering tools - Maven, IDEs (PyCharm, RubyMine, Eclipse), virtual machines (VirtualBox, Docker), version control systems (Git, Mercurial)
       level: 95%
 
   professional:
@@ -137,6 +137,12 @@ projects:
     My various activities, either voluntary or as part of my roles, revolve around reproducibility, openness, transparency and
     inclusivity in research. They mainly include project management, open leadership, growing open communities,
     delivering training and organising events.
+  assignments:
+    - name: Carpentries Executive Council member
+      time: 2021 - 
+      link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
+      details: |
+        Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, approving and monitoring The Carpentries programs and services.
   assignments:
     - name: Carpentry community engagement
       time: 2014 - present
