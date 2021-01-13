@@ -28,7 +28,7 @@
     {% if activities %}
     <section class="project-section py-3">
         <h3 class="text-uppercase resume-section-heading mb-4">{{ activities.title }}</h3>
-        <div class="item-content">{{ activities.intro }}</div>
+        <div class="item-content"><p>{{ activities.intro }}</p></div>
         {% for activity in activities.assignments %}
         <div class="item mb-3">
             <div class="item-heading row align-items-center mb-2">
