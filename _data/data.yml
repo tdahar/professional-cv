@@ -142,8 +142,8 @@ projects:
       time: 2021 - 
       link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
       details: |
-        Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, approving and monitoring The Carpentries programs and services.
-  assignments:
+        Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
+        approving and monitoring The Carpentries programs and services.
     - name: Carpentry community engagement
       time: 2014 - present
       link: "https://carpentries.org/"
