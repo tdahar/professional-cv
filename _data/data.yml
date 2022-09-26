@@ -50,7 +50,7 @@ work-experiences:
     company: ELIXIR, EU Life Sciences Infrastructure Project
     intro:
     details:
-      - Designed, project managed and co-developed the TeSS training portal(https://tess.elixir-europe.org/, developed in Ruby on Rails) for browsing and automated discovery
+      - Designed, project managed and co-developed the [TeSS training portal](https://tess.elixir-europe.org) (developed in Ruby on Rails) for browsing and automated discovery
         of life sciences training resources
       - Co-founded and co-led the BioSchemas standard and community for the development of Schema.org markup to structure online training resources in life sciences
 
