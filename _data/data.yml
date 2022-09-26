@@ -59,7 +59,7 @@ work-experiences:
     details: 
       - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of web services in life sciences, developed in Ruby on        Rails and deployed on an Openstack academic cloud)
 
-  - role: (Senior) Research Software Engineer
+  - role: Senior Research Software Engineer
     time: 2008 - 2013
     company: School of Computer Science, University of Manchester, UK
     intro: "Development, deployment and maintenance of several software products:"
@@ -71,7 +71,7 @@ work-experiences:
         - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce paradigm)
         - NeISS (platform for social simulations developed using Java portlets and Ruby on Rails)
 
-  - role: Post Doctoral Researcher
+  - role: Post Doctoral Researcher & Research Software Engineer
     time: 2005 - 2008
     company: School of Computer Science, University of Manchester, UK
     intro: 
@@ -79,7 +79,7 @@ work-experiences:
       - Research and development of a Single Sign-On Shibboleth-enabled bridge to access the (Higher Education's) National Grid Service
       - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the UK Research and Higher Education communities and their online services
 
-  - role: Research Associate
+  - role: Research Associate & Research Software Engineer
     time: 2002 - 2005
     company: School of Computer Science, University of Manchester, UK
     intro:
