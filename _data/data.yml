@@ -1,106 +1,73 @@
 # Profile information
-name: Aleksandra Nenadic
-tagline: Technical Training Manager, Software Sustanability Institute, UK
-avatar: alex.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-email: a.nenadic [at] manchester.ac.uk
-phone: 012 345 6789
+name: Tarun Daryanani
+tagline: Junior Software Engineer, Spain
+avatar: tarun.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+email: tarunhd_96 [at] hotmail.com
 website: 
-linkedin: aleksandra-nenadic-bb64b96
-github: anenadic
+linkedin: git@github.com:tdahar/professional-cv.git
+github: tdahar
 gitlab:
 bitbucket:
-twitter: "aleks_nenadic"
+twitter: "tarunhd"
 stack-overflow: # Number/Username, e.g. 123456/alandoe
 codewars:
 goodreads: # Number-Username, e.g. 123456-alandoe
-orcid: "0010-0042-2269-3894" #id part of ORCID e.g. https://orcid.org/0010-0042-2269-3894
-location: Manchester, UK
+orcid:  #id part of ORCID e.g. https://orcid.org/0010-0042-2269-3894
+location: Barcelona, Spain
 
 career-summary: 
-  An IT professional who spent most of her working life in academia and research.
 
-  Over the past 5 years committed to ongoing improvement of research software practice through training and community
-  engagement work. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
-  and helping develop new training curricula. Maintaining the UK’s pivotal role within
-  the international research training community by running events, training instructors, helping organisations and individuals deliver training
-  for researchers and handling national and international collaborations and outreach with various communities.
+  Junior Software Engineer with 3+ years of experience. 
+  Willing to learn and keep growing. My passion is to program and automate tasks and processes.
+  At a professional level, I have worked in three different companies, with three different roles;
+  Infrastructure Engineer, IT Security Consultant and Research Engineer (which involved programming and data analysis). 
+  In the end, my passion is about automating processes as I mentioned, whether by creating new tools or by creating APIs and 
+  microservices that connect to each other. 
 
-  Prior to moving into project management, worked as a senior research software engineer and gained experience in a variety
-  of platforms, infrastructures, technologies and programming languages. If she writes code these days, it is mainly in Python
-  or Ruby to extract, analyse, visualise and make sense of the data she works with and to help automate her daily tasks.
+  I prefer to work in a medium size team, big enough to share my ideas with a group of people, as well as learning from them, 
+  but small enough so I get to know the team. I consider myself autonomous enough to find the solutions on my own, 
+  but I like having someone in the team who is specialized in some technology, 
+  so in the end I can learn from someone who has already solved the puzzle and can give me advice to learn the proper way. 
+
 
 work-experiences:
-  - role: Training Team Lead
-    time: 2016 - Present
-    company: Software Sustainability Institute, UK
+  - role: Junior Software Engineer
+    time: Aug 2021 - Present
+    company: Barcelona SuperComputing Center, Spain
     intro:
     details: # Give more details about your responsibilities in the role.
-      - Working to improve the provision and access to training in foundational computational and data analysis skills
-        to aid open and reproducible research by diffusion of a model of training based on pedagogical research
-        and principles of openness and collaboration
-      - Engaging with UK Higher Education institutions and Doctoral Training Centres, projects and worldwide communities
-        involving research software training - providing them with consultancy, guidance and support around building capability
-        and capacity within their communities 
-      - Helping to increase the scale at which we create computationally skilled researcher base by running instructor training and 
-        lesson development training programmes, with a particular focus on inclusion, diversity, equity and accessibility strategies for
-        sidelined audiences.
+      - Implementation of tools using Go: 
+        - https://github.com/migalabs
+        - https://github.com/cortze/eth-cl-state-analyzer
+      - Store more than 1M rows in PostgreSQL
+      - Creation of RESTful APIs to serve data
+      - Use of Django to create back-end services
+      - Use of Git, Docker, SSH, Bash Scripts, Linux services, Firewalls
+      - Use of Python to analyze data (Jupyter Notebook, Pandas)
+      - Good understand of P2P networks
+      - Use of Prometheus and Grafana to monitor services and alerting
 
-  - role: Technical Training Coordinator
-    time: 2014 - 2016
-    company: ELIXIR, EU Life Sciences Infrastructure Project
+
+  - role: IT Security Consultant
+    time: Aug 2019 - Aug 2021
+    company: Daimler Group Services Madrid, Spain
     intro:
     details:
-      - Designed, project managed and co-developed the TeSS training portal (developed in Ruby on Rails) for browsing and automated discovery
-        of life sciences training resources
-      - Co-founded and co-led the BioSchemas standard and community for the development of Schema.org markup to structure online training resources in life sciences
+      - Good understanding of ISO 27001
+      - Good understanding of Software Development Life Cycle
+      - Review Security Audit reports (Pentesting, Architecture audits)
+      - Good understanding of IAM Policies
+      - Medium-High level use of Microsoft Excel
+      - Creating presentations and explaining managers security issues
 
-  - role: Product manager
-    time: 2013 - 2014
-    company: School of Computer Science, University of Manchester, UK
+  - role: Global Video Platform Infrastructure Intern
+    time: Aug 2018 - Apr 2019
+    company: Telefonica i+D, Spain
     intro:
     details: 
-      - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of web services in life sciences, developed in Ruby on        Rails and deployed on an Openstack academic cloud)
-
-  - role: Senior Research Software Engineer
-    time: 2008 - 2013
-    company: School of Computer Science, University of Manchester, UK
-    intro: "Development, deployment and maintenance of several software products:"
-    details:
-        - Taverna (scientific workflow execution system developed in Java)
-        - BioCatalogue (online registry of WSDL and REST Web services from the Life Sciences domain; Ruby on Rails
-          product deployed on an Openstack academic cloud)
-        - BioVel (virtual e-laboratory for biodiversity research; Ruby on Rails product deployed on Amazon’s AWS cloud)
-        - SCAPE EU (digital preservation platform developed using Hadoop/MapReduce paradigm)
-        - NeISS (platform for social simulations developed using Java portlets and Ruby on Rails)
-
-  - role: Post Doctoral Researcher & Research Software Engineer
-    time: 2005 - 2008
-    company: School of Computer Science, University of Manchester, UK
-    intro: 
-    details:
-      - Research and development of a Single Sign-On Shibboleth-enabled bridge to access the (Higher Education's) National Grid Service
-      - Feasibility study including requirements engineering and consulting on levels of authentication assurance for the UK Research and Higher Education communities and their online services
-
-  - role: Research Associate & Research Software Engineer
-    time: 2002 - 2005
-    company: School of Computer Science, University of Manchester, UK
-    intro:
-    details:
-      - Research and development a Single Sign-On, multi-factor authentication solution for federated identity and access management
-      - Research and development of security protocols for secure digital signing and online exchange of digital goods
-  - role: Software engineer
-    time: 2000 - 2001
-    company: eMobile (UK) Ltd., Manchester, UK
-    intro:
-    details:
-      -  Mobile phone app developer for the first generation of Internet-enabled phones - Ericsson R320 and R380 (WAP, WML)
-
-  - role: ORACLE database developer
-    time: 1999 - 2000
-    company: DUEL, Belgrade, Serbia
-    intro:
-    details:
-      -  Developing financial applications accessing an underlying ORACLE database (PL/SQL, ORACLE Fusion Middleware)
+      - Participant of Talentum Scolarship
+      - Automating Software deployments with Github, Jenkins and Docker
+      - Provision and Deprovision of data through Linux servers
 
 education:
   - degree: PhD in Computer Science (Security Protocols)
@@ -108,24 +75,22 @@ education:
     time: 2002 - 2005
     details:
 
-  - degree: BSc (Hons) in Mathematics & Computer Science (First Class)
-    institution: University of Belgrade, Serbia
-    time: 1995 - 1999
+  - degree: BSc (Hons) in Computer Science
+    institution: University of La Laguna, Canary Islands, Spain
+    time: 2014 - 2019
     details:
 
 skills:
   title: Skills # &amp; Proficiency
   technical:
-    - name: Programming languages (Python, Ruby, Java, PHP)
-      level: 98%
-    - name: Web standards and technologies (XML/HTML, CSS/SASS, JSON, RDF, JavaScript & jQuery)
-      level: 98%
-    - name: Web frameworks (Jekyll, Ruby on Rails, Django)
-      level: 85%
+    - name: Programming languages (Python, Golang)
+      level: 70%
+    - name: Web standards and technologies (XML/HTML, CSS/SASS, JSON, JavaScript & jQuery)
+      level: 50%
     - name: Databases (mySQL, PostgresQL, SQLite3, ORACLE)
-      level: 98%
-    - name: Software engineering tools - Maven, IDEs (PyCharm, RubyMine, Eclipse), virtual machines (VirtualBox, Docker), version control systems (Git, Mercurial)
-      level: 95%
+      level: 80%
+    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Mercurial)
+      level: 90%
 
   professional:
     - name: Team player
@@ -133,63 +98,63 @@ skills:
     - name: Effective verbal and written communication
     - name: Excellent self & time management
 
-projects:
-  title: Activities
-  intro: |
-    My various activities, either voluntary or as part of my roles, revolve around reproducibility, openness, transparency and
-    inclusivity in research. They mainly include project management, open leadership, growing open communities,
-    delivering training and organising events.
-  assignments:
-    - name: Carpentries Executive Council member
-      time: 2021 - 
-      link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
-      details: |
-        Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
-        approving and monitoring The Carpentries programs and services.
-    - name: Carpentry community engagement
-      time: 2014 - present
-      link: "https://carpentries.org/"
-      details: |
-        Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
-        of The Carpentries community, recruiting more members into the community and training instructors to help grow
-        the capacity. Organised and taught at over 20 workshops.
-    - name: Lead conference organiser, CarpentryConnect Manchester 2019
-      time: 2019
-      details: Project managed the organisation of the event.
-    - name: Conference organiser, CarpentryCon Madison 2020
-      time: 2020
-      details: Responsible for website, outreach and programme.
-    - name: Conference organiser, RSE Conference 2017
-      time: 2017
-      details: Responsible for website and local organisation.
-    - name: Expert at Mozilla Open Life Sciences Leadership Programme
-      time: 2019 -2020
-      details: Guiding early stage researchers and potential academic leaders to becoming Open Science ambassadors.
-    - name: Curriculum advisory committee member for Health Data Research UK
-      time: 2018-present
-      details: Helping devise a training curriculum for public health research.
-    - name: BBSRC national capabilities review panel member
-      time: 2019
-      details: Reviewing UK bioscience and bioinformatics national capabilities institutions.
-    - name: Volunteer at EuroPython Edinburgh 2018
-      time: 2018
-      details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
-    - name: Volunteer at Hacktoberfest Manchester 2019
-      time: 2019
-      details: Helping people start coding with Python, R and git or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
+# projects:
+#   title: Activities
+#   intro: |
+#     My various activities, either voluntary or as part of my roles, revolve around reproducibility, openness, transparency and
+#     inclusivity in research. They mainly include project management, open leadership, growing open communities,
+#     delivering training and organising events.
+#   assignments:
+#     - name: Carpentries Executive Council member
+#       time: 2021 - 
+#       link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
+#       details: |
+#         Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
+#         approving and monitoring The Carpentries programs and services.
+#     - name: Carpentry community engagement
+#       time: 2014 - present
+#       link: "https://carpentries.org/"
+#       details: |
+#         Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
+#         of The Carpentries community, recruiting more members into the community and training instructors to help grow
+#         the capacity. Organised and taught at over 20 workshops.
+#     - name: Lead conference organiser, CarpentryConnect Manchester 2019
+#       time: 2019
+#       details: Project managed the organisation of the event.
+#     - name: Conference organiser, CarpentryCon Madison 2020
+#       time: 2020
+#       details: Responsible for website, outreach and programme.
+#     - name: Conference organiser, RSE Conference 2017
+#       time: 2017
+#       details: Responsible for website and local organisation.
+#     - name: Expert at Mozilla Open Life Sciences Leadership Programme
+#       time: 2019 -2020
+#       details: Guiding early stage researchers and potential academic leaders to becoming Open Science ambassadors.
+#     - name: Curriculum advisory committee member for Health Data Research UK
+#       time: 2018-present
+#       details: Helping devise a training curriculum for public health research.
+#     - name: BBSRC national capabilities review panel member
+#       time: 2019
+#       details: Reviewing UK bioscience and bioinformatics national capabilities institutions.
+#     - name: Volunteer at EuroPython Edinburgh 2018
+#       time: 2018
+#       details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
+#     - name: Volunteer at Hacktoberfest Manchester 2019
+#       time: 2019
+#       details: Helping people start coding with Python, R and git or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
 
-awards:
-  - name: ILM Level 5 Award in Leadership & Management
-    detail: 2019
+# awards:
+#   - name: ILM Level 5 Award in Leadership & Management
+#     detail: 2019
 
-  - name: Certified Carpentry Instructor Trainer
-    detail: 2017
+#   - name: Certified Carpentry Instructor Trainer
+#     detail: 2017
     
-  - name: Certified Software & Data Carpentry Instructor
-    detail: 2015
+#   - name: Certified Software & Data Carpentry Instructor
+#     detail: 2015
 
-  - name: Faculty of Mathematics, University of Belgrade, Award for Best Students
-    detail: 2000
+#   - name: Faculty of Mathematics, University of Belgrade, Award for Best Students
+#     detail: 2000
 #
 #languages:
 #  - name: English
@@ -213,17 +178,20 @@ interests:
 
   - name: Skiing
     detail: When I get a chance
+  
+  - name: Rock Climbing
+    detail: When I get a chance
 
-publications:
-  title: Recent Publications
-  intro: |
-    You can list your publications in this section and give an introduction to your published work."
+# publications:
+#   title: Recent Publications
+#   intro: |
+#     You can list your publications in this section and give an introduction to your published work."
 
-  papers:
-    - title: "Ten simple rules for measuring the impact of workshops."
-      authors: "Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al."
-      details: "PLOS Computational Biology 14(8):e1006191, 2018, https://doi.org/10.1371/journal.pcbi.1006191"
+#   papers:
+#     - title: "Ten simple rules for measuring the impact of workshops."
+#       authors: "Sufi, S., Nenadic, A., Silva, R., Duckles, B., Simera, I., et al."
+#       details: "PLOS Computational Biology 14(8):e1006191, 2018, https://doi.org/10.1371/journal.pcbi.1006191"
 
-    - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR"
-      authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
-      details: "F1000Research 6:952, 2017, https://doi.org/10.12688/f1000research.11837.1"
+#     - title: "ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR"
+#       authors: "Larcombe, L., Hendricusdottir, R., Attwood, T. et al."
+#       details: "F1000Research 6:952, 2017, https://doi.org/10.12688/f1000research.11837.1"
