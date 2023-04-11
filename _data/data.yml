@@ -2,7 +2,7 @@
 name: Tarun Daryanani
 tagline: Junior Software Engineer, Spain
 avatar: tarun.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-email: tarunhd_96 [at] hotmail.com
+email: tarunhd_96@hotmail.com
 website: 
 linkedin: tarun-m-26455880/
 github: tdahar
@@ -17,17 +17,14 @@ location: Barcelona, Spain
 
 career-summary: 
 
-  Junior Software Engineer with 3+ years of experience. 
-  Willing to learn and keep growing. My passion is to program and automate tasks and processes.
+  Junior Software Engineer with 3+ years of experience who is willing to learn and keep growing.<br>
+  My passion is to program and automate tasks and processes.<br>
   At a professional level, I have worked in three different companies, with three different roles;
   Infrastructure Engineer, IT Security Consultant and Research Engineer (which involved programming and data analysis). 
-  In the end, my passion is about automating processes as I mentioned, whether by creating new tools or by creating APIs and 
-  microservices that connect to each other. 
 
   I prefer to work in a medium size team, big enough to share my ideas with a group of people, as well as learning from them, 
   but small enough so I get to know the team. I consider myself autonomous enough to find the solutions on my own, 
-  but I like having someone in the team who is specialized in some technology, 
-  so in the end I can learn from someone who has already solved the puzzle and can give me advice to learn the proper way. 
+  but I like having someone in the team who is specialized in some technology. 
 
 
 work-experiences:
@@ -36,9 +33,7 @@ work-experiences:
     company: Barcelona SuperComputing Center, Spain
     intro:
     details: # Give more details about your responsibilities in the role.
-      - Implementation of tools using Go: 
-        - https://github.com/migalabs
-        - https://github.com/cortze/eth-cl-state-analyzer
+      - Implementation of tools using Go (<a href="https://github.com/migalabs">Migalabs Organization</a> | <a href="https://github.com/cortze/eth-cl-state-analyzer">Analyzer tool</a>)
       - Store more than 1M rows in PostgreSQL
       - Creation of RESTful APIs to serve data
       - Use of Django to create back-end services
@@ -85,11 +80,13 @@ skills:
   technical:
     - name: Programming languages (Python, Golang)
       level: 70%
-    - name: Web standards and technologies (XML/HTML, CSS/SASS, JSON, JavaScript & jQuery)
+    - name: Web standards and technologies (HTML/CSS/JS, JSON, TCP/IP, DNS, Firewall)
       level: 50%
-    - name: Databases (mySQL, PostgresQL, SQLite3, ORACLE)
+    - name: Databases (mySQL, PostgresQL)
       level: 80%
-    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Mercurial)
+    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Jenkins)
+      level: 90%
+    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Jenkins)
       level: 90%
 
   professional:

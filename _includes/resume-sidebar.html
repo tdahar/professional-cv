@@ -1,5 +1,31 @@
 {% assign profile = site.data.data %}
 <aside class="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
+	{% if profile.skills %}
+    <section class="skills-section py-3">
+        <h3 class="text-uppercase resume-section-heading mb-4">{{ profile.skills.title }}</h3>
+        {% assign technical_skills = profile.skills.technical %}
+        {% if technical_skills %}
+        <div class="item">
+            <h4 class="item-title">Technical</h4>
+            <ul class="list-unstyled resume-skills-list">
+                {% for skill in technical_skills %}
+                <li class="mb-2">{{ skill.name }}</li>
+                {% endfor %}
+            </ul>
+        </div><!--//item-->
+        {% endif %}
+        {% assign professional_skills = profile.skills.professional %}
+        {% if professional_skills %}
+        <div class="item">
+            <h4 class="item-title">Professional</h4>
+            {% for skill in professional_skills %}
+            <ul class="list-unstyled resume-skills-list">
+                <li class="mb-2">{{ skill.name }}</li>
+            </ul>
+            {% endfor %}
+        </div><!--//item-->
+        {% endif %}
+    </section><!--//skills-section-->
     {% if profile.education %}
     <section class="education-section py-3">
         <h3 class="text-uppercase resume-section-heading mb-4">Education</h3>
@@ -27,32 +53,7 @@
         {% endfor %}
     </section><!--//awards-section-->
     {% endif %}
-    {% if profile.skills %}
-    <section class="skills-section py-3">
-        <h3 class="text-uppercase resume-section-heading mb-4">{{ profile.skills.title }}</h3>
-        {% assign technical_skills = profile.skills.technical %}
-        {% if technical_skills %}
-        <div class="item">
-            <h4 class="item-title">Technical</h4>
-            <ul class="list-unstyled resume-skills-list">
-                {% for skill in technical_skills %}
-                <li class="mb-2">{{ skill.name }}</li>
-                {% endfor %}
-            </ul>
-        </div><!--//item-->
-        {% endif %}
-        {% assign professional_skills = profile.skills.professional %}
-        {% if professional_skills %}
-        <div class="item">
-            <h4 class="item-title">Professional</h4>
-            {% for skill in professional_skills %}
-            <ul class="list-unstyled resume-skills-list">
-                <li class="mb-2">{{ skill.name }}</li>
-            </ul>
-            {% endfor %}
-        </div><!--//item-->
-        {% endif %}
-    </section><!--//skills-section-->
+
     {% endif %}
     {% if profile.languages %}
     <section class="skills-section py-3">
