@@ -29,7 +29,7 @@ career-summary:
 
 work-experiences:
   - role: Junior Software Engineer
-    time: Aug 2021 - Present
+    time: Aug 2021 - May 2023
     company: Barcelona SuperComputing Center, Spain
     intro:
     details: # Give more details about your responsibilities in the role.
@@ -78,16 +78,21 @@ education:
 skills:
   title: Skills # &amp; Proficiency
   technical:
-    - name: Programming languages (Python, Golang)
-      level: 70%
-    - name: Web standards and technologies (HTML/CSS/JS, JSON, TCP/IP, DNS, Firewall)
-      level: 50%
-    - name: Databases (mySQL, PostgresQL)
-      level: 80%
-    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Jenkins)
-      level: 90%
-    - name: Software engineering tools - virtual machines (VirtualBox, Docker), version control systems (Git, Jenkins)
-      level: 90%
+    - name: Programming languages
+      details: Python, Golang
+      level: 2 years
+    - name: Web standards and technologies
+      details: HTML/CSS/JS, JSON, TCP/IP, DNS, Firewall
+      level: 3 years
+    - name: Databases
+      details: mySQL, PostgresQL
+      level: 2 years
+    - name: Software engineering tools
+      details: virtual machines (VirtualBox, Docker), version control systems (Git, Jenkins)
+      level: 2 years
+    - name: Documentation
+      details: Markdown, HackMD
+      level: 3 years
 
   professional:
     - name: Team player
@@ -95,50 +100,41 @@ skills:
     - name: Effective verbal and written communication
     - name: Excellent self & time management
 
-# projects:
-#   title: Activities
-#   intro: |
-#     My various activities, either voluntary or as part of my roles, revolve around reproducibility, openness, transparency and
-#     inclusivity in research. They mainly include project management, open leadership, growing open communities,
-#     delivering training and organising events.
-#   assignments:
-#     - name: Carpentries Executive Council member
-#       time: 2021 - 
-#       link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
-#       details: |
-#         Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
-#         approving and monitoring The Carpentries programs and services.
-#     - name: Carpentry community engagement
-#       time: 2014 - present
-#       link: "https://carpentries.org/"
-#       details: |
-#         Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
-#         of The Carpentries community, recruiting more members into the community and training instructors to help grow
-#         the capacity. Organised and taught at over 20 workshops.
-#     - name: Lead conference organiser, CarpentryConnect Manchester 2019
-#       time: 2019
-#       details: Project managed the organisation of the event.
-#     - name: Conference organiser, CarpentryCon Madison 2020
-#       time: 2020
-#       details: Responsible for website, outreach and programme.
-#     - name: Conference organiser, RSE Conference 2017
-#       time: 2017
-#       details: Responsible for website and local organisation.
-#     - name: Expert at Mozilla Open Life Sciences Leadership Programme
-#       time: 2019 -2020
-#       details: Guiding early stage researchers and potential academic leaders to becoming Open Science ambassadors.
-#     - name: Curriculum advisory committee member for Health Data Research UK
-#       time: 2018-present
-#       details: Helping devise a training curriculum for public health research.
-#     - name: BBSRC national capabilities review panel member
-#       time: 2019
-#       details: Reviewing UK bioscience and bioinformatics national capabilities institutions.
-#     - name: Volunteer at EuroPython Edinburgh 2018
-#       time: 2018
-#       details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
-#     - name: Volunteer at Hacktoberfest Manchester 2019
-#       time: 2019
-#       details: Helping people start coding with Python, R and git or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
+projects:
+  title: Github Projects
+  intro: |
+    During my educational and professional experience I have developed and participated in several open-source projects.
+  assignments:
+    - name: Ethereum Consensus Layer State Analyzer
+      time: 2022
+      link: "https://github.com/cortze/eth-cl-state-analyzer"
+      details: |
+        This repository was created to obtain on-chain data from the Ethereum network and persist metrics into a PostgreSQL
+        database for further and detailed analysis.
+
+    - name: Ethereum Consensus Layer Clients Deployment
+      time: 2022
+      link: "https://github.com/migalabs/eth2-clients-setup"
+      details: |
+        This repository was created to deploy several Ethereum Consensus Clients together with one simple command.
+
+    - name: Armiarma
+      time: 2021
+      link: "https://github.com/migalabs/armiarma"
+      details: |
+        Armiarma is an open-source p2p crawler that is able to identify the nodes participating in the network.
+
+    - name: Ethereum Consensus Layer Live Metrics
+      time: 2021
+      link: "https://github.com/migalabs/eth-cl-live-metrics"
+      details: |
+        This tool is able to retrieve live metrics from any self-hosted beacon node: block proposals, block arrivals and attestations collected.
+
+extra-education:
+  courses:
+    - name: IT Security (Universidad de LaLaguna)
+    - name: Python Basic Problem Solving (HackerRank)
+    - name: Basic Cloud Computing (Google Courses)
 
 # awards:
 #   - name: ILM Level 5 Award in Leadership & Management
@@ -152,17 +148,14 @@ skills:
 
 #   - name: Faculty of Mathematics, University of Belgrade, Award for Best Students
 #     detail: 2000
-#
-#languages:
-#  - name: English
-#    level: Native
-#
-#  - name: French
-#    level: Professional
-#
-#  - name: Spanish
-#    level: Professional
-#
+
+languages:
+ - name: English
+   level: C1
+
+ - name: Spanish
+   level: Native
+
 interests:
   - name: Cooking
     detail: I have to so let's make it healthy, fun & tasty

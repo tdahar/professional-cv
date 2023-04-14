@@ -6,10 +6,18 @@
         {% assign technical_skills = profile.skills.technical %}
         {% if technical_skills %}
         <div class="item">
-            <h4 class="item-title">Technical</h4>
+            <h3 class="item-title">Technical</h3>
             <ul class="list-unstyled resume-skills-list">
                 {% for skill in technical_skills %}
-                <li class="mb-2">{{ skill.name }}</li>
+                <li class="mb-2">
+					
+					<p class="font-weight-normal">
+						<b>{{ skill.name }}</b><br>
+						{{skill.details}}
+					</p>
+					
+					
+				</li>
                 {% endfor %}
             </ul>
         </div><!--//item-->
